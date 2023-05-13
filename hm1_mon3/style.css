@@ -1,0 +1,27 @@
+.wrapper {
+    width: 200px;
+    height: 200px;
+    background-color: #eaadad;
+    border-radius: 5px;
+    margin: 0 auto;
+}
+.wrapper div {
+    margin-top: 25px;
+}
+.check {
+    margin-top: 20px;
+    margin-left: 65px;
+}
+.parent {
+    position: relative;
+    height: 300px;
+    width: 500px;
+    background-color: green;
+}
+.child {
+    position: absolute;
+    height: 50px;
+    width: 50px;
+    background-color: #eaadad;
+}
+
